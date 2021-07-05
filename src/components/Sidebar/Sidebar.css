@@ -1,0 +1,6 @@
+.sticky1 {
+    position: fixed;
+    left: 10;
+    width: 14%;
+    z-index: 1;
+  }

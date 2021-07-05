@@ -1,0 +1,24 @@
+.item{
+    width:100%;
+}
+.item-image{
+    width:10px !important;
+}
+
+.list-group-item+.list-group-item {
+    /* border-top-width: 0; */
+    border-style: none;
+}
+.card{
+    border-style: none;
+}
+
+.ul{
+    list-style-type: none;
+}
+.item-heading{
+    padding: 5px 0px 0px 18px !important;
+}
+.icon{
+    color:white;
+}
